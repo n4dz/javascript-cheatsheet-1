@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+
+.myParagraph1Class {
+    color: red;
+}
+
+.myParagraph2Class {
+    color: purple;
+}
+
+.myParagraph2Class:hover {
+    background-color: violet;
+}
+
+.myMonkeyImageClass {
+    width: 20%;
+    height: 20%;
+}
+
+.myMonkeyImageClass:hover {
+    width: 10%;
+    height: 10%;
+}
