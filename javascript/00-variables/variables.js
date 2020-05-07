@@ -75,3 +75,14 @@ console.log(age); // 30
 console.log(isAdult); // true
 console.log(myCar.km); // 0
 console.log(myCar.price); // 150000
+
+
+/* 
+***************************************************************************************************************************************************
+    Here is how to see the typo of a variable
+***************************************************************************************************************************************************    
+*/
+
+console.log(typeof age); // Number
+console.log(typeof myCar); // Object
+console.log(typeof isAdult); // Boolean
