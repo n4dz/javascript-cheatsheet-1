@@ -35,8 +35,8 @@ if (myAge > 10) { // since 20 is greater (>) then 10, this condition is TRUE so 
 
 let myName = "Ali";
 
-if (myName !== "Ali") { // since myName is not equal (!==) to Ali, this condition is FALSE so the block of code inside the { } will NOT be executed
-    console.log("My name is not Ali."); 
+if (myName !== "Ali") { // since myName is equal (===) to Ali, this condition is FALSE so the block of code inside the { } will NOT be executed
+    console.log("My name is Ali."); 
 }
 
 
