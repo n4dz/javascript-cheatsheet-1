@@ -36,7 +36,7 @@ The DOM is actually your _corrected_ HTML.
 
 A nested set of boxes
 
-<img src="./assets/dom_example.png" />
+<img src="https://github.com/CraigNock/BootCamp_Workshops/raw/master/wksp-module-2-js-3-the-dom/assets/dom_example.png" />
 
 ---
 
@@ -48,13 +48,13 @@ A nested set of boxes
 
 End nodes are usually called leaves.
 
-<img src="./assets/dom_tree.png" />
+<img src="https://github.com/CraigNock/BootCamp_Workshops/raw/master/wksp-module-2-js-3-the-dom/assets/dom_tree.png" />
 
 ---
 
 JavaScript can modify _all_ of the HTML elements on the page.
 
-<img src=./assets/html_tree.gif style="height: 400px" />
+<img src="https://github.com/CraigNock/BootCamp_Workshops/raw/master/wksp-module-2-js-3-the-dom/assets/html_tree.gif" style="height: 400px" />
 
 ---
 
