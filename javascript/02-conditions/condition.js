@@ -48,7 +48,7 @@ if (myName !== "Ali") { // since myName is equal (===) to Ali, this condition is
 */
 let myFavoriteFood = "Pizza";
 
-if(myFavoriteFood === "Pizza") { // since myFavoriteFood is equal (===) to Pizza, this condition is TRUE so the block of code inside the { } will be executed and the black inside the else will NOT be executed
+if(myFavoriteFood === "Pizza") { // since myFavoriteFood is equal (===) to Pizza, this condition is TRUE so the block of code inside the { } will be executed and the block inside the else will NOT be executed
     console.log("Your favorite food is pizza!");
 } else { // Not executed
     console.log("Your favorite food is not pizza!");
