@@ -1,7 +1,7 @@
 /*
 *************************************************************************************************************************************************** 
     An array is a special variable, which can hold more than one value at a time.
-    Instrad of having to declare multiple variables once, we can use array to have them all like so [variable1, variable2, variable3] .. All the variables must be the same type to ease operations
+    Instead of having to declare multiple variables once, we can use array to have them all like so [variable1, variable2, variable3] .. All the variables must be the same type to ease operations
 ***************************************************************************************************************************************************        
 */
 
