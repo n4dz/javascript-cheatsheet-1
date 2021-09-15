@@ -61,7 +61,7 @@ function isPersonAdult(theAgeParameter) {
 
 // Assigning the return value of the function to a variable
 let isFirstPersonsAgeAdult = isPersonAdult(10); // here the value of the variable isFirstPersonsAgeAdult will be false since the function will return false
-let isSecondPersonsAgeAdult = isPersonAdult(100); // here the value of the variable isFirstPersonsAgeAdult will be false since the function will return false
+let isSecondPersonsAgeAdult = isPersonAdult(100); // here the value of the variable isSecondPersonsAgeAdult will be true since the function will return true
 
 // Outputing the variable
 console.log(isFirstPersonsAgeAdult); // false
