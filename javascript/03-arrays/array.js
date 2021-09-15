@@ -60,7 +60,7 @@ let myFruitsArray = ["Banana", "Orange", "Apple", "Mango"]; // Creating a new ar
 // the second paramater is the amount of things we want to remove after this index (lets say 2, would remove orange and apple)
 // the last parameter is an arraw that contains the things that we want to add
 myFruitsArray.splice(1, 0, ["Ananas", "Kiwi"]); // Add Ananas and Kiwi at the index 1 and remove nothing
-console.log(myFruitsArray); // Banana, Ananas, Kiwi, Apple, Mango
+console.log(myFruitsArray); // Banana, Ananas, Kiwi, Orange, Apple, Mango
 
 myArray.splice(0, 0, ["Volvo"]);
 console.log(myArray); // Volvo, BMW, Audi, Mercedez, Ford, Ferrari
