@@ -83,9 +83,9 @@ if(myFavoriteSport === "Golf") { // since myFavoriteSport is not equal (!==) to 
     console.log("Your favorite sport is golf!");
 }
 else if(myFavoriteSport === "Waterpollo" || myFavoriteSport === "Swimming") { // since myFavoriteSport is equal (===) to either Waterpollo OR (||) Swimming, this condition is TRUE so the block of code inside the { } will be executed 
-console.log("Your favorite drink is orange juice!");
+console.log("Your favorite sport is Waterpollo OR Swimming!");
 } else { // The else block will NOT execute
-    console.log("Your favorite drink is not water or orange juice!");
+    console.log("Your favorite sport is not Swimming, Waterpollo or Golf!");
 }
 
 
