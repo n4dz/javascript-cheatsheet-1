@@ -15,7 +15,7 @@
 */
 
 let thisIsMySuperVariableName = 1; // The type of this variable is a number
-let age = 10; // The type od this variable is a number
+let age = 10; // The type of this variable is a number
 
 let firstName = "John"; // The type of this variable is a string
 let lastName = "Cena"; // The type of this variable is a string
